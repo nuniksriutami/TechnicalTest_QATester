@@ -83,3 +83,6 @@ Acceptance Criteria:
 
 - Sistem menyediakan halaman pengaturan hak akses dengan opsi tambah, edit, dan hapus role.
 - Role-based access control diterapkan sehingga pengguna hanya bisa mengakses fitur sesuai dengan hak akses mereka.
+
+
+Note : Test Cases dalam Format Gherkin di folder features
